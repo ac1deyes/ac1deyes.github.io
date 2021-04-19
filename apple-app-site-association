@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "ZQ9U2EUQ6N.ru.mts.cashback.develop",
-        "paths": [  
-        "NOT /condition.htm", 
-        "NOT /privacy.htm", 
+        "paths": [
         "*"
         ]
       }
