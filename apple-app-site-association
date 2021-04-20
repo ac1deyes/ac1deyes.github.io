@@ -7,7 +7,9 @@
         "paths": [
         "/id_??_?_???",
         "/id1*",
-        "NOT /test/*"
+        "/id1_*",
+        "NOT /test/*",
+        "/test1/"
         ]
       }
     ]
