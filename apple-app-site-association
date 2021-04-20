@@ -5,11 +5,11 @@
       {
         "appID": "ZQ9U2EUQ6N.ru.mts.cashback.develop",
         "paths": [
-        "/id_??_?_???",
-        "/id1*",
-        "/id1_*",
-        "NOT /test/*",
-        "/test1/*"
+        "/id_*",
+        "/favorites",
+        "/catalog",
+        "/catalog/*",
+        "/"
         ]
       }
     ]
