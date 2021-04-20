@@ -6,6 +6,7 @@
         "appID": "ZQ9U2EUQ6N.ru.mts.cashback.develop",
         "paths": [
         "/id_??_?_???",
+        "/id1*",
         "NOT /test/*"
         ]
       }
