@@ -9,6 +9,12 @@
         "/favorites",
         "/catalog",
         "/catalog/*",
+        "/goodok_cashback",
+        "/goodok_cashback/*",
+        "/private/withdrawal",
+        "/private/history",
+        "/private/mts-bank",
+        "/private/help",
         "/"
         ]
       }
