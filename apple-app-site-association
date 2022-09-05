@@ -3,21 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "ZQ9U2EUQ6N.ru.mts.cashback.develop",
+        "appID": "ZQ9U2EUQ6N.ru.mts.sdk.CBSDKExample",
         "paths": [
-        "/id_*",
-        "/favorites",
-        "/catalog",
-        "/catalog/*",
-        "/goodok_cashback",
-        "/goodok_cashback/*",
-        "/private/withdrawal",
-        "/private/history",
-        "/private/mts-bank",
-        "/private/help",
-        "/private",
-        "/private/click-history",
-        "/promo",
+        "/route/*",
         "/"
         ]
       }

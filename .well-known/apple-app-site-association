@@ -3,11 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "ZQ9U2EUQ6N.ru.mts.cashback.develop",
-        "paths": [  
-        "NOT /condition.htm", 
-        "NOT /privacy.htm", 
-        "*"
+        "appID": "ZQ9U2EUQ6N.ru.mts.sdk.CBSDKExample",
+        "paths": [
+        "/route/*",
+        "/"
         ]
       }
     ]
