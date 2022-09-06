@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "ZQ9U2EUQ6N.ru.mts.sdk.CBSDKExample",
+        "appID": "5YLUAUJ2B9.ru.mts.sdk.CashbackSDKExample",
         "paths": [
         "/route/*",
         "/"
